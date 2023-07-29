@@ -5,14 +5,16 @@
 }
 body{
     background-color: #222;
-    /* background-image: url(./images/photo-1503327431567-3ab5e6e79140.avif); */
+    background-image: url(./images/5466409.jpg);
     background-repeat:no-repeat;
-    background-size:cover
+    background-size:cover;
+    background-attachment: fixed;
+    
 }
 .card{
     width:90% ;
     max-width: 470px;
-    background: linear-gradient(135deg, #00feba, #5b548a);
+    background: linear-gradient(135deg, #0d356550, #3730694f);
     color: #fff;
     margin: 100px auto 0;
     border-radius: 30px;
